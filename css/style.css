@@ -372,6 +372,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right>ul>li { float: right; }
 #navigation>ul>li>a { padding: 16px 17px; font-size: 14px; color: #989898; letter-spacing: 1px; text-decoration: none; font-weight: 500; text-transform: uppercase; }
+#navigation>ul>li.active>a { color: #fff; background-color: #e23225; }
 #navigation>ul>li:hover>a { color: #fff; background-color: #e23225; }
 #navigation>ul>li.has-sub>a { padding-right: 30px; }
 
@@ -470,6 +471,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 .slider .owl-theme .owl-dots .owl-dot span { width: 12px; height: 12px; margin: 5px 4px; background: #bbbdbe; border-radius: 50px; border: 2px solid #bbbdbe; display: block; -webkit-backface-visibility: visible; transition: opacity 200ms ease; }
 .slider .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span { background-color: #d75e69; border: 2px solid #d75e69; }
 .slider .owl-theme .owl-carousel .owl-item img { width: 100%; }
+
+.classes { padding-bottom: 20px; }
 
 /*-----------------------------------
 8. Footer 
