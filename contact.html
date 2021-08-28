@@ -56,6 +56,11 @@
           </a>
         </div>
       </div>
+
+      <div class="row">
+        <div id="contact-map" style="position: relative; overflow: hidden;">
+        </div>
+      </div>
     </div>
   </div>
   <div class="page-header">
@@ -110,7 +115,8 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                       <div class="form-group">
                         <label class="control-label sr-only" for="email"></label>
-                        <input id="email" type="email" name="_replyto" placeholder="Seu email" class="form-control" required="">
+                        <input id="email" type="email" name="_replyto" placeholder="Seu email" class="form-control"
+                          required="">
                       </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -178,6 +184,29 @@
   <script src="js/menumaker.js" type="text/javascript"></script>
   <script type="text/javascript" src="js/jquery.sticky.js"></script>
   <script type="text/javascript" src="js/sticky-header.js"></script>
+
+  <script type="text/javascript">
+
+    function initMap() {
+      var uluru = {
+        lat: 23.094197,
+        lng: 72.558148
+      };
+      var map = new google.maps.Map(document.getElementById('contact-map'),
+        {
+          zoom: 14,
+          center: uluru,
+          scrollwheel: false
+        }
+      );
+      var marker = new google.maps.Marker({
+        position: uluru, map: map, icon: 'images/map_pin.png'
+      });
+    }
+  </script>
+  <script async="" defer=""
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBm9twxqXuiR1xmOWyet6kweJJ1p2_2hlY&amp;callback=initMap">
+    </script>
 </body>
 
 </html>
