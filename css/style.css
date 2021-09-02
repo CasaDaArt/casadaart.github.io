@@ -443,7 +443,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 /*----------------------------------------------
     5.4 Page Header
 ----------------------------------------------*/
-.page-header { background: url(../images/page_header.jpg) no-repeat; background-size: cover; padding-bottom: 0px; padding-top: 238px; margin: 0px; border: 0px; }
+.page-header { background: url(../images/page_header.png) no-repeat; background-size: cover; padding-bottom: 0px; padding-top: 238px; margin: 0px; border: 0px; }
 .page-section { background-color: rgba(20, 20, 20, 0.5); padding: 25px 8px; }
 .page-title { font-size: 40px; font-weight: 700; font-family: 'Oswald', sans-serif; margin-bottom: 4px; color: #fff; }
 .page-breadcrumb { color: #6c6c6c; }
