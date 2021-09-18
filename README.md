@@ -7,5 +7,5 @@ Organization Site
 - [x] DançaFlix
 - [x] Profes
 - [ ] Modalidades
-- [ ] Contato
-- [ ] Sobre
+- [x] Contato
+- [x] Sobre
