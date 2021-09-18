@@ -3,12 +3,9 @@ Organization Site
 
 ### Solar System Exploration, 1950s – 1960s
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Home
+- [x] DançaFlix
+- [x] Profes
+- [ ] Modalidades
+- [ ] Contato
+- [ ] Sobre
