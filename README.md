@@ -3,12 +3,10 @@ Organization Site
 
 ### Solar System Exploration, 1950s – 1960s
 
-- [ ] Home
--       [ ] Eventos
+- [ ] Home - Eventos
 - [x] DançaFlix
 - [x] Profes
-- [ ] Modalidades
--       [ ] Vídeos modalidades
--       [ ] Textos modalidades
+- [ ] Modalidades: Vídeos
+- [ ] Modalidades: Textos
 - [x] Contato
 - [x] Sobre
