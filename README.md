@@ -1,7 +1,7 @@
 # casadaart.github.io
 Organization Site
 
-### Solar System Exploration, 1950s – 1960s
+### TODO List: 
 
 - [ ] Home - Eventos
 - [x] DançaFlix
