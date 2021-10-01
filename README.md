@@ -6,7 +6,8 @@ Organization Site
 - [ ] Home - Eventos
 - [x] DançaFlix
 - [x] Profes
-- [ ] Modalidades: Vídeos
-- [ ] Modalidades: Textos
+- [x] Modalidades: Vídeos
+- [x] Modalidades: Textos
+- [ ] Modalidades: Imagens vídeos
 - [x] Contato
 - [x] Sobre
