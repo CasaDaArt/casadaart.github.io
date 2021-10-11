@@ -3,11 +3,11 @@ Organization Site
 
 ### TODO List: 
 
-- [ ] Home - Eventos
+- [x] Home - Eventos
 - [x] DançaFlix
 - [x] Profes
 - [x] Modalidades: Vídeos
 - [x] Modalidades: Textos
-- [ ] Modalidades: Imagens vídeos(contemporâneo)
+- [x] Modalidades: Imagens vídeos
 - [x] Contato
 - [x] Sobre
