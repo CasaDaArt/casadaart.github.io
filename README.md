@@ -8,6 +8,6 @@ Organization Site
 - [x] Profes
 - [x] Modalidades: Vídeos
 - [x] Modalidades: Textos
-- [ ] Modalidades: Imagens vídeos
+- [ ] Modalidades: Imagens vídeos(contemporâneo)
 - [x] Contato
 - [x] Sobre
