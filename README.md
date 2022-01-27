@@ -11,3 +11,5 @@ Organization Site
 - [x] Modalidades: Imagens vídeos
 - [x] Contato
 - [x] Sobre
+- [ ] Info aluguel sala
+- [ ] Trabalhe Conosco
