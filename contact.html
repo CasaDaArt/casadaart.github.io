@@ -221,14 +221,12 @@
 
     const btnSubmitClick = async (e) => { 
       e.preventDefault();
-      // e.stopPropagation();
 
       const email = $('#email').val();
       const message = $('#message').val();
       const html = `<p><b>Message: </b>${message}</p>
       <p><b>Email Contact:</b> ${email}</p>
       <p><b>Page: Contact</b></p>`;
-
 
       const formData = new FormData();
       formData.append("subject", "[casadaart.com.br] Contact")
