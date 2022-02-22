@@ -12,4 +12,4 @@ Organization Site
 - [x] Contato
 - [x] Sobre
 - [ ] Info aluguel sala
-- [ ] Trabalhe Conosco
+- [x] Trabalhe Conosco
