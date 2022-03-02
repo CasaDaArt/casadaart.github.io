@@ -950,4 +950,12 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .error-wrapper { padding: 50px 40px; }
 }
 
+.checked { 
+  font-size: 25px !important;
+  color: green
+}
 
+.unchecked { 
+  font-size: 25px !important;
+  color: red;
+}
