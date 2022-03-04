@@ -961,10 +961,12 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 
 .checked { 
   font-size: 25px !important;
-  color: green
+  padding-right: 8px;
+  color: #44d344
 }
 
 .unchecked { 
   font-size: 25px !important;
-  color: red;
+  padding-right: 8px;
+  color: #ff3c2e;
 }
